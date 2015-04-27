@@ -1,3 +1,15 @@
 Start: Fri, 10 Apr 2015 10:46:55 -0700
 End: Fri, 10 Apr 2015 17:33:59 -0700
-Tasks: I pretty much did it all in one sitting, although the last three hours were spent realizing I need to use regular expressions for parseGit().
+Tasks: I pretty much did all of week3 in one sitting, although the last three hours were spent realizing I need to use regular expressions for parseGit().
+
+Start: Sun, 19 Apr 2015 20:43:22 -0700
+End: Sun, 19 Apr 2015 21:57:43 -0700
+Tasks: Creating html5 and js files to start working with, created repository, did basic html.
+
+Start: Fri, 24 Apr 2015 13:10:15 -0700
+End: Fri, 24 Apr 2015 23:20:33 -0700
+Tasks: Set up the ajax function, took a while to work, printed basic links, sorting by language and added pagination.
+
+Start: Sun, 26 Apr 2015 12:10:18 -0700
+End: Sun, 26 Apr 2015 18:20:23 -0700
+Tasks: Finished bookmarks, testing, uploaded to OS webserver, documentation, remove localStorage objects.
